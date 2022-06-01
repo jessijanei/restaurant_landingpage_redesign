@@ -1,0 +1,193 @@
+body {
+  background-color: #000;
+
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: auto;
+  /* position: sticky; */
+}
+
+nav {
+  background-color: rgba(255, 123, 0, 0.705);
+  width: 100%;
+  font-weight: bold;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+  height: 10%;
+}
+
+.img-1 {
+  padding-bottom: 90px;
+}
+
+.cuisine {
+  font-size: 50px;
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+  text-align: center;
+  letter-spacing: 20px;
+}
+
+.myimg-2 {
+  width: 25%;
+  height: auto;
+}
+
+.welcome {
+  padding-top: 100px;
+}
+
+.summary {
+  font-size: 25px;
+  color: rgba(255, 123, 0, 0.74);
+}
+
+.huynh {
+  color: white;
+  font-size: 25px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+}
+
+.menu {
+  font-size: 30px;
+  font-family: monospace;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  padding-top: 180px;
+  padding-bottom: 180px;
+}
+.menu-1 {
+  font-size: 60px;
+}
+
+.cards-all {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 180px;
+}
+
+.card-text {
+  font-size: 25px;
+  font-style: italic;
+}
+
+.review-1 {
+  line-height: 0.7;
+  font-size: 50px;
+  color: rgba(255, 123, 0, 0.74);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+  text-align: center;
+  padding-bottom: 80px;
+}
+
+.press {
+  color: white;
+  font-size: 30px;
+}
+
+.review-2 {
+  line-height: 1;
+  font-size: 50px;
+  color: rgba(255, 123, 0, 0.74);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+  text-align: center;
+  padding-bottom: 80px;
+}
+
+.fearless {
+  color: white;
+  font-size: 30px;
+}
+
+.review-3 {
+  line-height: 1;
+  font-size: 50px;
+  color: rgba(255, 123, 0, 0.74);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+  text-align: center;
+  padding-bottom: 80px;
+}
+
+.esquire {
+  color: white;
+  font-size: 30px;
+}
+
+.review-4 {
+  line-height: 0.7;
+  font-size: 50px;
+  color: rgba(255, 123, 0, 0.74);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+  text-align: center;
+  padding-bottom: 80px;
+}
+
+.chronicle {
+  color: white;
+  font-size: 30px;
+}
+
+.full-restaurant {
+  padding-bottom: 180px;
+}
+
+.location-all {
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  font-family: monospace;
+  font-weight: none;
+  padding-bottom: 150px;
+}
+
+.location {
+  font-size: 60px;
+  font-weight: bold;
+  padding-bottom: 80px;
+}
+
+.contact {
+  text-align: center;
+  font-size: 60px;
+  font-weight: bold;
+  padding-bottom: 80px;
+  color: white;
+  font-family: monospace;
+}
+
+.mb-3 {
+  text-align: center;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.form-label {
+  float: left;
+  color: grey;
+}
+
+#formGroupExampleInput4 {
+  padding: 25%;
+}
+
+.btn {
+  background-color: rgba(255, 123, 0, 0.74);
+  border: none;
+  padding: 2%;
+}
+
+.send {
+  margin-bottom: 25%;
+}
+
+.footer {
+  height: 50px;
+  background-color: rgba(255, 123, 0, 0.705);
+}
